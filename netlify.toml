@@ -1,0 +1,4 @@
+[build]
+base = "lupanapp/"
+publish = "lupanapp/build/"
+command = "yarn build"
