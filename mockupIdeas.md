@@ -8,7 +8,7 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
 ## nommage
 
   * iso 
-  * track cuircuiy
+  * track circuit
   * drum
   * loop
   * pattern
@@ -30,21 +30,30 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * fete forraine : tir au pigeon et montagne russe
   * ambiance sketch pastelle neo flashy cyber cirkus
   * ball trap , skeet shooting
+  * split carton
+  * representation par des cartons ou bouteilles
+  * tire fesse
+  * porte = croissement
+  * rewind too retry 
+  * thematiqe , sport de shhot; carnival voir madscientist ou peut etre shoot em up
   
 ## inspiration 
 
   * patterning 
   * melodics 
   * minimetro
-  * 
+  * playground
+  KrKT
 
 ## Tools 
 
   * gravit
   * juce
-  *
+  * c++ switch 
 
 ## Liens
 
 https://fr.wikipedia.org/wiki/Ball-trap
+
+https://fr.wikipedia.org/wiki/Shoot_%27em_up
 
