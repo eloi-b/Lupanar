@@ -2,13 +2,30 @@
 
 ## pitch
 
-represention d'un drum pattern dans un parcours isometric avec des cube
+represention d'un drum pattern dans un parcours isometric, type boucle en carre ou huit, avec des cubes 
 
 
 ## nommage
 
-iso track drum loop  pattern cube "note highways" railsDeTrain 2.5d 
-
+  * iso 
+  * track cuircuiy
+  * drum
+  * loop
+  * pattern
+  * cube
+  * "note highways"
+  * railsDeTrain
+  * 2.5d
+  * circuit loop 8
+  * fil de fer,
+  * arcade borne
+  * marblemadness 
+  * tuiles tiles
+  * infinite step,
+  * passé , prevsent a venir , futur
+  * pile de cube
+  * rail shooter ,duck hunt, carton 
+  * tir lazer
 ## inspiration 
 
   * patterning 
@@ -19,3 +36,4 @@ iso track drum loop  pattern cube "note highways" railsDeTrain 2.5d
   * gravit
   * juce
   *
+
