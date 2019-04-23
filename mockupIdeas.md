@@ -26,14 +26,25 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * pile de cube
   * rail shooter ,duck hunt, carton 
   * tir lazer
+  * vue piano roll, drum pad, cubeboxboom, tracks
+  * fete forraine : tir au pigeon et montagne russe
+  * ambiance sketch pastelle neo flashy cyber cirkus
+  * ball trap , skeet shooting
+  
 ## inspiration 
 
   * patterning 
   * melodics 
+  * minimetro
+  * 
 
 ## Tools 
 
   * gravit
   * juce
   *
+
+## Liens
+
+https://fr.wikipedia.org/wiki/Ball-trap
 
