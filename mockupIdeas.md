@@ -36,6 +36,7 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * porte = croissement
   * rewind too retry 
   * thematiqe , sport de shhot; carnival voir madscientist ou peut etre shoot em up
+  * tapis rouleau, elevator
   
 ## inspiration 
 
