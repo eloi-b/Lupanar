@@ -55,6 +55,7 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * minimetro
   * playground
   * KrKT
+  * sugar-bytes
 
 ## modes de vue
 
@@ -65,10 +66,21 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
 
 ## Tools 
 
+### graphique
   * gravit
+  * https://zeplin.io
+### audio midi
+  * audiokit
   * juce
+### programmation
+
   * c++ switch
-  * CircleCi / bitrise + https://fastlane.tools/ + jazzy documentation
+
+### CI/CD
+  * CircleCi / bitrise + https://fastlane.tools/ +
+  
+### documentation
+  jazzy documentation
 
 
 
