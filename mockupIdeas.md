@@ -35,7 +35,7 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * tire fesse de ski 
   * porte = croissement starGate / portal
   * rewind too retry - circle vynil stuff BPM
-  * thematiqe , sport de shot; carnival voir madscientist ou peut etre shoot em up
+  * thematique , sport de shot; carnival voir madscientist ou peut etre shoot em up
   * tapis rouleau, elevator
   * quantization, swing , groove
   * kick + snare + hithat + clap = modulation du timbre facon figure
@@ -43,8 +43,10 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * morse code tutor
   * IA create pattern = randomizes stuff like future drummer
   * sound editing like `DM2
+  * transposition / automation
   * boombap ; trap; amen break; dembow
   * ableton link ; midi connection, ble midi
+  * data vizualisation : chart bar
   
 ## inspiration 
 
@@ -53,13 +55,20 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * minimetro
   * playground
   * KrKT
-  
+
+## modes de vue
+
+  * libre freestyle
+  * guitar hero
+  * push to play
+  * push to mute
 
 ## Tools 
 
   * gravit
   * juce
-  * c++ switch 
+  * c++ switch
+  * CircleCi / bitrise + https://fastlane.tools/ + jazzy documentation
 
 
 
