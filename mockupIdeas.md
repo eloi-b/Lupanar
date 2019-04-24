@@ -74,10 +74,17 @@ represention d'un drum pattern dans un parcours isometric, type boucle en carre 
   * juce
 ### programmation
 
-  * c++ switch
+  * c++ 
+  * switf
 
+### ide
+  * visual studio code
+  * xcode
+  
 ### CI/CD
-  * CircleCi / bitrise + https://fastlane.tools/ +
+  * CircleCi 
+  * bitrise 
+  * fastlane + https://fastlane.tools/ +
   
 ### documentation
   jazzy documentation
